@@ -84,9 +84,3 @@ This tutorial covered securing a REST API using JWT authentication. By implement
 **Further Enhancements:**
 - Integrate a database for user authentication.
 - Hash passwords using `bcrypt` for added security.
-- Implement token blacklisting and revocation mechanisms.
-
-For the full code, visit the public GitHub repository: [GitHub Repo Link Here].
-
-Happy coding! 🚀
-
